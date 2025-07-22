@@ -3,7 +3,6 @@
 # 📊 Sales Performance Dashboard (2015–2017)
 
 Welcome to a comprehensive Power BI dashboard that analyzes sales performance, customer behavior, product trends, returns, and target achievement over the years 2015, 2016, and 2017. This report was developed as a professional Business Intelligence project using real-time data modeling, DAX measures, and effective storytelling techniques.
-
 ---
 
 ## 🧠 About the Project
